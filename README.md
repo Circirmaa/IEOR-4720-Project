@@ -4,7 +4,7 @@
 To examine the effectiveness of Attention Mechanism in RNN(LSTM) based stock price movement prediction method, based on Hong Kong stock market as well as stocks from S&P 500.
 
 ## Research Paper
-[Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper](https://drive.google.com/file/d/1qzU0PEPIEKreXoj6pfGt4UHI1XJLcuw7/view?usp=sharing)
+Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper
 
 ## Datasets
 1. Hong Kong stock data(daily): downloaded from Bloomberg(00800.HK to 00899.HK), some stocks may be dropped during data cleaning.
@@ -29,7 +29,7 @@ To examine the effectiveness of Attention Mechanism in RNN(LSTM) based stock pri
 
 ## References
 ### 1. Papers
-* [Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper](https://drive.google.com/file/d/1qzU0PEPIEKreXoj6pfGt4UHI1XJLcuw7/view?usp=sharing)
+* [Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper](#)
 * Cho, K., Merrienboer, B.v., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H. and Bengio, Y., Learning
 phrase representations using RNN EncoderDecoder for statistical machine translation. Proceedings of the
 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2014, pp. 1724-1734. 
