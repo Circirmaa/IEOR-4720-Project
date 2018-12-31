@@ -17,11 +17,11 @@ To examine the effectiveness of Attention Mechanism in RNN(LSTM) based stock pri
 
 ## Files Instruction
 1. Report: report.pdf
-2. Codes:
-   1) Paper_replication(tensorflow): paper_replication_model.ipynb
-   2) Extention(tensorflow): 
-   3) Result Visualization: 
-   4) Models Validation(Keras): 
+2. Train Models:
+   * Paper_replication(tensorflow): paper_replication_model.ipynb
+   * Extention(tensorflow): 
+   * Result Visualization: 
+   * Models Validation(Keras): 
 3. Indicators Creating: create_indicators.ipynb
 4. Data ready for models: 
    HK data: processed_data_HK.csv
