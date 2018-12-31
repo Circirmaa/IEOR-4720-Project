@@ -6,9 +6,9 @@ To examine the effectiveness of Attention Mechanism in RNN(LSTM) based stock pri
 ## Research Paper
 Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper
 
-## Datasets(daily)
-1. Hong Kong stock data: downloaded from Bloomberg(00800.HK to 00899.HK), some stocks may be dropped during data cleaning.
-2. US stock data: Randomly choose 100 stocks from S&P 500, data were downloaded here: https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
+## Datasets
+1. Hong Kong stock data(daily): downloaded from Bloomberg(00800.HK to 00899.HK), some stocks may be dropped during data cleaning.
+2. US stock data(daily): Randomly choose 100 stocks from S&P 500, data were downloaded here: https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
 ### 1. Basic stock features: 
 'Open', 'High', 'Low', 'Close', 'Volume', 
 ### 2. Technique Indicators (Calculated using python package TA-Lib):
@@ -23,10 +23,17 @@ Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Predi
    3) Result Visualization: 
    4) Models Validation(Keras): 
 3. Indicators Creating: create_indicators.ipynb
-4. Data ready for models: HK data: processed_data_HK.csv; US data: processed_data_SP.csv
+4. Data ready for models: 
+   HK data: processed_data_HK.csv
+   US data: processed_data_SP.csv
 
 ## References
 ### 1. Papers
+ 
 ### 2. Codes
-1) RNN samplecode: https://colab.research.google.com/drive/1CbSE6FLROhyE-e4GkroRrvf-fKVEMqRv
-2) https://github.com/Circirmaa/Stock-Prediction-Models/blob/master/deep-learning/14.lstm-attention.ipynb
+* RNN samplecode [[colab]](https://colab.research.google.com/drive/1CbSE6FLROhyE-e4GkroRrvf-fKVEMqRv)
+* HUSEIN ZOLKEPLI's Stock-Prediction-Models repository [[github]](https://github.com/Circirmaa/Stock-Prediction-Models/blob/master/deep-learning/14.lstm-attention.ipynb)
+### 3. Useful links
+* [[Recurrent Neural Networks - LSTM Models]](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+
