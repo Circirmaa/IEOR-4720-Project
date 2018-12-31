@@ -4,7 +4,7 @@
 To examine the effectiveness of Attention Mechanism in RNN(LSTM) based stock price movement prediction method, based on Hong Kong stock market as well as stocks from S&P 500.
 
 ## Research Paper
-Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper
+[Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper](https://drive.google.com/file/d/1qzU0PEPIEKreXoj6pfGt4UHI1XJLcuw7/view?usp=sharing)
 
 ## Datasets
 1. Hong Kong stock data(daily): downloaded from Bloomberg(00800.HK to 00899.HK), some stocks may be dropped during data cleaning.
@@ -29,11 +29,17 @@ Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Predi
 
 ## References
 ### 1. Papers
- 
+* [Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper](https://drive.google.com/file/d/1qzU0PEPIEKreXoj6pfGt4UHI1XJLcuw7/view?usp=sharing)
+* Cho, K., Merrienboer, B.v., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H. and Bengio, Y., Learning
+phrase representations using RNN EncoderDecoder for statistical machine translation. Proceedings of the
+2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2014, pp. 1724-1734. 
+* Chorowski, J.K., Bahdanau, D., Serdyuk, D., Cho, K. and Bengio, Y., Attention-based models for speech
+recognition. In Advances in Neural Information Processing Systems 28, edited by C. Cortes, N.D.
+Lawrence, D.D. Lee, M. Sugiyama and R. Garnett, pp. 577{585, 2015, Curran Associates, Inc.
 ### 2. Codes
 * RNN samplecode [[colab]](https://colab.research.google.com/drive/1CbSE6FLROhyE-e4GkroRrvf-fKVEMqRv)
 * HUSEIN ZOLKEPLI's Stock-Prediction-Models repository [[github]](https://github.com/Circirmaa/Stock-Prediction-Models/blob/master/deep-learning/14.lstm-attention.ipynb)
 ### 3. Useful links
-* [[Recurrent Neural Networks - LSTM Models]](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [Recurrent Neural Networks - LSTM Models](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 
