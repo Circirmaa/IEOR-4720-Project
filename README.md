@@ -29,7 +29,7 @@ Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Predi
 
 ## References
 ### 1. Papers
-* [Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper](#)
+* Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Prediction, June 7, 2018 Quantitative Finance temppaper
 * Cho, K., Merrienboer, B.v., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H. and Bengio, Y., Learning
 phrase representations using RNN EncoderDecoder for statistical machine translation. Proceedings of the
 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2014, pp. 1724-1734. 
