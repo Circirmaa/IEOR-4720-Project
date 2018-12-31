@@ -41,5 +41,5 @@ Lawrence, D.D. Lee, M. Sugiyama and R. Garnett, pp. 577{585, 2015, Curran Associ
 * HUSEIN ZOLKEPLI's Stock-Prediction-Models repository [[github]](https://github.com/Circirmaa/Stock-Prediction-Models/blob/master/deep-learning/14.lstm-attention.ipynb)
 ### 3. Useful links
 * [Recurrent Neural Networks - LSTM Models](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-
+* [TA-Lib Python Wrapper](https://github.com/mrjbq7/ta-lib)
 
