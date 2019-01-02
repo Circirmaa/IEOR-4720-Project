@@ -18,10 +18,8 @@ Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Predi
 ## Files Instruction
 1. Report: report.pdf
 2. Train Models:
-   * Paper_replication(tensorflow): paper_replication_model.ipynb
-   * Extention(tensorflow): 
-   * Result Visualization: 
-   * Models Validation(Keras): 
+   * Model in TensorFlow: tensorflow_model.ipynb
+   * Models in Keras: keras_model.ipynb 
 3. Indicators Creating: create_indicators.ipynb
 4. Data ready for models: 
    HK data: processed_data_HK.csv
