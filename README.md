@@ -23,7 +23,7 @@ Exploring Attention Mechanism in LSTM based Hong Kong Stock Price Movement Predi
 3. Indicators Creating: create_indicators.ipynb
 4. Data ready for models: 
    HK data: processed_data_HK.csv
-   US data: processed_data_SP.csv
+   US data: [processed_data_SP.csv] (https://drive.google.com/file/d/11-Qyzy46mgtWSc3unLzwMNEDVonTHC4Q/view?usp=sharing)
 
 ## References
 ### 1. Papers
